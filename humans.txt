@@ -2,8 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
+    
+    Harry Lesmana harrysl21@gmail.com
 
 # THANKS
 

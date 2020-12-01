@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 ## How To Contribute
 
 Contact Owner
+
+## Copyright
+
+2020 BIT

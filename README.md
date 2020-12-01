@@ -12,6 +12,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+New Team Member
+
 ## How To Contribute
 
 Contact Owner
